@@ -21,7 +21,7 @@ AI-powered writing platform with crypto-based payouts.
 - Designed database schemas and UI for admin/user portals  
 - Integrated Ethereum payments & payment history tracking
 
-### 📊 Svampar  
+### [📊 Svampar](https://github.com/baldovalievlj/svampar) 
 Inventory management system with full CRUD functionality.  
 **Tech:** Kotlin, Ktor, Angular, PostgreSQL, Heroku  
 - Architected full-stack solution  
@@ -32,7 +32,7 @@ Inventory management system with full CRUD functionality.
 
 ## 💼 Industry Experience
 
-**Full Stack Developer** @ Sorsix (2020–Present)  
+**Full Stack Developer** @ [Sorsix](https://www.sorsix.com/) (2020–Present)  
 Building enterprise healthcare solutions using Kotlin, Spring Boot, Angular, PostgreSQL.
 
 ---
